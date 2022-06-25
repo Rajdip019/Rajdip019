@@ -1,37 +1,57 @@
-<h1 align="center">Hi 👋, I'm Rajdeep Sengupta</h1>
-<h3 align="center">Full Stack Web Developer and young UI & UX Designer, Loves to Play Chess.</h3>
+<h1 align="left">Hi 👋, I'm Rajdeep Sengupta, Welcome to My GitHub Profile</h1>
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdip019&label=Profile%20views&color=0e75b6&style=flat" alt="rajdip019" /> </p>
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400px" height="250" />
+<br>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdip019" alt="rajdip019" /></a> </p>
+- 🌱 Currently Working on DocuComb.
 
-- 🔭 I’m currently working on [Booklee](https://github.com/Rajdip019/booklee-client)
+- ✨ Pursuing B.tech in Computer Science and Enginnering.
 
-- 🌱 I’m currently learning **JavaScript, React, Next.js, TypeScript, node.js and a whole lot.**
+- 👨‍💻 All of my projects are available at my [**Portfolio**](https://rajdeep.space)
 
-- 👯 I’m looking to collaborate on **Any Project**
+- 💬 Looking for Collaboration in Linkedin [**Rajdeep Sengupta**](https://www.linkedin.com/in/rajdeep-sengupta/) 
 
-- 🤝 I’m looking for a **mentor to guide me.**
+- 📫 Reach me at **rajdipgupta019@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rajdip019](https://github.com/Rajdip019)
-
-- 💬 Ask me about **React, Next.js, JavaScript, HTML, CSS, Tailwind CSS**
-
-- 📫 How to reach me **rajdipgupta019@gmail.com**
-
-- ⚡ Fun fact **What's so funny?**
-
+<br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rajdeeps019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajdeeps019" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajdeep-sengupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajdeep-sengupta" height="30" width="40" /></a>
-<a href="https://codesandbox.com/rajdip019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rajdip019" height="30" width="40" /></a>
-<a href="https://www.behance.net/rajdeepsengupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rajdeepsengupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajdeep-sengupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rajdeep Sengupta" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/aritra-biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aritra biswas" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/ARITRA_BISWAS_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rajdeep Sengupta" height="30" width="40" /></a> -->
+<a href="https://discord.gg/#2260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8855" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+<h3 align="left">Languages :</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdip019&show_icons=true&locale=en&layout=compact" alt="rajdip019" /></p>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdip019&" alt="rajdip019" /></p>
+<h3 align="left">FrameWorks and Libreries :</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://react.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/nextjs.dark.svg" alt="nextjs" width="40" height="40"/> </a></p>
+
+<h3 align="left">Tools : </h3>
+
+
+<br />
+
+<table align="center">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajdip019&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Rajdip019&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+</td>
+</tr>
+</table>
+<br />
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajdip019&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
+</p>
+
+<br>
+
+[![Aritra's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Rajdip019&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Rajdip019)

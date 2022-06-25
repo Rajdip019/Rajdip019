@@ -49,7 +49,7 @@
     <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="nextjs" width="40" height="40"/> </a>
    <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="nextjs" width="40" height="40"/> </a>

@@ -7,7 +7,7 @@
 
 - 🌱 Currently Working on DocuComb.
 
-- ✨ Pursuing B.tech in Computer Science and Enginnering.
+- ✨ Pursuing B.tech in Computer Science and Engineering.
 
 - 👨‍💻 All of my projects are available at my [**Portfolio**](https://rajdeep.space)
 

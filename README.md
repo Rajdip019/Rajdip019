@@ -5,7 +5,7 @@
 <br>
 <br>
 
-- 🌱 Currently Working on DocuComb.
+- 🌱 Currently Working at DocuComb.
 
 - ✨ Pursuing B.tech in Computer Science and Engineering.
 
@@ -79,4 +79,4 @@
 
 <br>
 
-[![Aritra's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Rajdip019&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Rajdip019)
+[![Rajdeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Rajdip019&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Rajdip019)

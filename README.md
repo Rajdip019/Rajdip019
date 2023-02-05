@@ -73,8 +73,7 @@
 </tr>
 </table>
 <br />
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajdip019&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rajdip019&layout=compact&theme=dracula" />
 </p>
 
 <br>

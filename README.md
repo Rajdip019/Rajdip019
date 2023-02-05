@@ -73,9 +73,5 @@
 </tr>
 </table>
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rajdip019&layout=compact&theme=dracula" />
 </p>
-
 <br>
-
-[![Rajdeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Rajdip019&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Rajdip019)

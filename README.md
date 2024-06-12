@@ -2,12 +2,12 @@
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 <br>
 
-- 🌱 Currently Working at Immplify ( previously DocuComb ).
+- 🌱 Currently Working at Chainrisk as a Lead Cloud Engineer.
 - ✨ Pursuing B.tech in Computer Science and Engineering.
 
-- 👨‍💻 All of my projects are available at my [**Portfolio**](https://rajdeep.space)
+- 👨‍💻 All of my projects are available at my [**Portfolio**](https://rajdeep.vercel.app)
 
-- 💬 Looking for Collaboration in Linkedin [**Rajdeep Sengupta**](https://www.linkedin.com/in/rajdeep-sengupta/) 
+- 💬 Looking for Collaboration in Linkedin [**Rajdeep Sengupta**](https://www.linkedin.com/in/rajdeep-sengupta/)
 
 - 📫 Reach me at **rajdipgupta019@gmail.com**
 

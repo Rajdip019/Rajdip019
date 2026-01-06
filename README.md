@@ -1,6 +1,6 @@
-# Rajdeep Sengupta
+# 👋 Hi, I'm Rajdeep Sengupta
 
-Senior Cloud & Infrastructure Engineer  
+Cloud & Infrastructure Engineer  
 I build systems that are predictable under load and boring to operate
 
 ---

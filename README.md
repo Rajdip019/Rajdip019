@@ -20,6 +20,8 @@ Most of my work is deciding what a system actually has to guarantee, then removi
 | Project | |
 |---|---|
 | [**flexauth**](https://github.com/Rajdip019/flexauth) | Flexible, blazingly fast, secure in-house auth you deploy on your own servers. `Rust` `Axum` `Tokio` `MongoDB` |
+| [**freeflow**](https://github.com/Rajdip019/freeflow) | A CreativeOps tool for the design industry — manages the creative process from brief to delivery. `Next.js` `TypeScript` `GCP` `Firebase` |
+| [**mamavault-backend-go**](https://github.com/Rajdip019/mamavault-backend-go) | Fully serverless backend for Prega, a document manager for expectant mothers. `Go` `Firebase` `Cloud Functions` |
 | [**portfolio**](https://github.com/Rajdip019/portfolio) | My site — and a template anyone can fork. `Next.js` `TypeScript` `Notion as CMS` |
 
 ## Writing

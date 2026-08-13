@@ -1,70 +1,49 @@
-# 👋 Hi, I'm Rajdeep Sengupta
+![Rajdeep Sengupta — Lead Engineer, Cloud & Infrastructure](banner.png)
 
-Cloud & Infrastructure Engineer  
-I build systems that are predictable under load and boring to operate
+**Lead Engineer at [Chainrisk Labs](https://chainrisk.xyz).** I lead a team of five across a risk engine, a simulation pipeline, and the cloud platform underneath them.
 
----
+Most of my work is deciding what a system actually has to guarantee, then removing everything that isn't that.
 
-## Focus
+## Selected work
 
-- Designing **cloud-native, failure-tolerant systems**
-- Running **CPU-bound, high-throughput workloads** efficiently
-- Making **cost, performance, and reliability trade-offs explicit**
-- Reducing operational complexity through strong abstractions
+**Proof of Reserves over ~$1.5B in assets.** Attestations are computed inside AWS Nitro Enclaves, so execution is hardware-isolated and independently verifiable, then proven with zero-knowledge circuits written in Circom — reserves can be verified without exposing position-level data. Since extended to real-world assets (RWA).
+→ [Write-up](https://rajdeepsengupta.com/blogs/3ba3f1da-77bc-80e0-a65d-ea039450f6d6)
 
----
+**A risk engine that costs 60× less to run.** Rewrote Monte Carlo simulation in Rust with CUDA-accelerated kernels, replacing interpreted per-scenario execution with batched GPU compute: 60× lower cloud spend and 40× faster end to end. Parallelising Solidity test-case execution across cores took runs a further 16× faster.
 
-## Core Skills
+**6M+ large-scale simulations a day.** Designed Chainrisk's cloud architecture from the ground up and owned it end to end — Docker, Kubernetes, Terraform and Ansible on AWS, every environment defined as code.
 
-### Languages
-- **Rust**, Go, TypeScript, JavaScript, Python, and more…
+**A stack that costs 30× less to operate.** At DryFi, brought the software in-house on GCP and Firebase, taking monthly running cost from ₹30,000 to under ₹1,000.
 
-### Cloud & Infrastructure
-- **AWS**: ECS / Fargate, EC2, SQS, ALB, CloudFront, IAM, VPC, Route 53, WAF, and more…
-- **Infrastructure as Code**: Terraform, declarative provisioning, and more…
-- **Containers**: Docker, container orchestration patterns, and more…
+## Open source
 
-### Systems & Data
-- **Async & Queues**: Event-driven architectures, long-running workers, backpressure, and more…
-- **Datastores**: PostgreSQL, ClickHouse, analytical & vector stores, and more…
-- **Caching & Delivery**: CDN-first designs, TTL strategies, cache invalidation, and more…
+| Project | |
+|---|---|
+| [**flexauth**](https://github.com/Rajdip019/flexauth) | Flexible, blazingly fast, secure in-house auth you deploy on your own servers. `Rust` `Axum` `Tokio` `MongoDB` |
+| [**portfolio**](https://github.com/Rajdip019/portfolio) | My site — and a template anyone can fork. `Next.js` `TypeScript` `Notion as CMS` |
 
----
+## Writing
 
-## What Sets My Work Apart
+I write about the parts of infrastructure that don't make good conference talks — at [rajdeepsengupta.com](https://rajdeepsengupta.com/blogs).
 
-- I design **for failure paths first**, not happy paths
-- I treat **cloud cost as a first-class constraint**
-- I optimize **CPU utilization, not instance counts**
-- I prefer **simple systems that scale**, over clever ones that don’t
-- I build infra that other engineers trust without thinking about
+- [Proof of Reserves for $1.5B: attestation inside Nitro Enclaves, verified with Circom](https://rajdeepsengupta.com/blogs/3ba3f1da-77bc-80e0-a65d-ea039450f6d6)
+- [Terraform Remote State Management with S3 and DynamoDB](https://rajdeepsengupta.com/blogs/2e93f1da-77bc-808a-8e68-e48a2d17e074)
+- [Building a Production-Ready Retrieval-Augmented Generation (RAG) Application](https://rajdeepsengupta.com/blogs/1bf3f1da-77bc-8037-9e3a-d5c323a4b924)
+- [Envelope Encryption: Securing User Data with Layered Protection](https://rajdeepsengupta.com/blogs/1a83f1da-77bc-80c9-9fe8-dcd13ae580f0)
 
----
+## How I work
 
-## Experience Highlights
+- Design the failure paths first — the happy path takes care of itself
+- Cloud cost is a design constraint, not a monthly surprise
+- Optimise CPU utilisation, not instance count
+- Prefer simple systems that scale over clever ones that don't
 
-- Architected **queue-driven worker systems** where each CPU core runs a long-lived task
-- Built **simulation and data processing pipelines** with predictable throughput
-- Designed **CDN-backed read-heavy systems** with minimal origin load
-- Owned infra decisions end-to-end: design → deploy → operate → optimize
+## Stack
+
+`Rust` `Go` `TypeScript` · `AWS` `GCP` · `Kubernetes` `Docker` `Terraform` `Ansible` `Linux` · `CUDA` `Circom` `Nitro Enclaves` · `PostgreSQL` `ClickHouse`
 
 ---
 
-## Engineering Values
+[Portfolio](https://rajdeepsengupta.com) · [LinkedIn](https://www.linkedin.com/in/rajdeep-sengupta/) · [X](https://x.com/RajdeepS019) · rajdipgupta019@gmail.com
 
-- Clarity over cleverness
-- Observability before optimization
-- Defaults should be safe
-- Systems should explain themselves
-
----
-
-## Contact
-
-- GitHub: https://github.com/Rajdip019
-- Email: rajdipgupta019@gmail.com
-- Twitter/X: https://x.com/RajdeepS019
-
----
-
-> _“The best infrastructure is the one nobody has to think about.”_
+Based in Kolkata, India (IST · UTC+5:30). Open to conversations about senior and lead infrastructure roles — remote, flexible across time zones.
